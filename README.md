@@ -1,10 +1,9 @@
 # accessability-assignment
 
 ## Description
+https://amartind.github.io/accessability-assignment/
 
 This project was to update the existing code into a more developer friendly format, took away redundant code and make accessability changes to the images and added a business inquiry email location.
-
-I also added a sticky bar for future development for a customer support chat, and a company logo in the upper right of the page.
 
 There is a color change to hyperlinks when you hover over them for the ability to see if you are actually on it, and they now open a new tab to get ready for page expansions.
 
@@ -18,9 +17,7 @@ This will help with the blind users and the users who have a hard time figuring 
 ![alt text](assets/images/access2.PNG)
 ![alt text](assets/images/access3.PNG)
 
-## Credits
 
-https://www.w3schools.com/cssref/tryit.php?filename=trycss_position_sticky
 
 ## License
     This program is free software: you can redistribute it and/or modify
